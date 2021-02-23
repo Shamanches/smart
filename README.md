@@ -1,2 +1,1 @@
 # smart1
-//test
